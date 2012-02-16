@@ -1,5 +1,0 @@
-SSS_SectionsID	SectionDescription	Departments	MaxCapacity	TotalEnrolled	InstructionMethod
-351862	This two-semester¡­	PE Applied Biomedical Engineering	27	13	Lecture
-351863	The course is ...	PE Applied Biomedical Engineering	30	7	Lecture
-351864	This...	PE Applied Biomedical Engineering	26	10	Lecture
-351865	This¡­..	PE Applied Biomedical Engineering	12	4	Lecture
